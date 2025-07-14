@@ -78,7 +78,7 @@
   <a href="mailto:divyakiranprofessional@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/+91 6239647583">
+  <a href="https://wa.me/qr/IVIMNFE5TESWM1">
     <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/nomadic.dev_2601">
