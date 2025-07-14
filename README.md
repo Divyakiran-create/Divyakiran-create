@@ -22,8 +22,19 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,react,figma,ai,ps,sqlite,numpy,pandas,sklearn" alt="Tech Skills" />
+### 📌 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,sql" alt="Languages" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,numpy,pandas,sklearn" alt="Frameworks & Libraries" />
+</p>
+
+### 🎨 Design & Creative Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Design Tools" />
 </p>
 
 ---
