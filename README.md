@@ -29,7 +29,9 @@
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,numpy,pandas,sklearn" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,sklearn" alt="Frameworks & Libraries" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
 </p>
 
 ### 🎨 Design & Creative Tools
