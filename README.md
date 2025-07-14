@@ -1,7 +1,7 @@
-<!-- 🚀 Divyakiran-create | FINAL ULTRA README.md -->
+<!-- 🚀 Divyakiran-create | Bookish Traveller Solver Coder README.md -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B%2C+I'm+Divyakiran+Sahoo;Java+%7C+Python+%7C+Cloud+%7C+UI%2FUX+Enthusiast;Currently+learning+Java%2C+Python%2C+Cloud%2C+UI%2FUX;Open+to+Collaborate+on+Open+Source;Be+The+TrendSetter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Divyakiran+Sahoo;A+Book+Lover+%F0%9F%93%9A+%7C+Traveller+%F0%9F%8C%8F+%7C+Problem+Solver+%E2%9C%A8;I+turn+real-life+problems+into+code+%F0%9F%92%BB;Be+The+TrendSetter+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,39 +9,50 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Student-VIT%20Bhopal%202023–2027-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pronouns-He%2FHim%2FHis-0aa6d3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Motto-Be%20The%20TrendSetter-ff69b4?style=for-the-badge" />
+  🎓 **B.Tech in Computer Science & Engineering** (Minor in **AI & ML**) — *VIT Bhopal University* (2023–2027)
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20Profile!&fontSize=30&fontAlign=50&fontColor=ffffff" />
+  <img src="https://img.shields.io/badge/Book%20Reader-%F0%9F%93%9A-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Traveller-%F0%9F%8C%8F-00bfff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-%E2%9C%A8-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TrendSetter-%F0%9F%9A%80-ffa500?style=for-the-badge" />
 </p>
+
+---
+
+## 🌍 About Me
+
+- 📚 **Reader:** Always lost in books when I’m not lost in code.
+- 🌏 **Traveller:** Exploring places, stories & new cultures.
+- 💡 **Problem Solver:** Turning everyday issues into real-world solutions.
+- 👨‍💻 **Coder:** Merging Java, Python, Cloud & UI/UX to make ideas real.
+- 🔗 **Minor:** AI & Machine Learning enthusiast.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,sql" alt="Languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,sql" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,sklearn" alt="Frameworks & Libraries" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,sklearn" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ### 🎨 Design & Creative Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Design Tools" />
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
 </p>
 
 ---
 
-## 🌟 Featured Project
+## 🚀 Featured Project
 
 <p align="center">
   <a href="https://github.com/Divyakiran-create/Drug-Drug-Integration-Checker-With-Ollama">
@@ -51,32 +62,25 @@
 
 ---
 
-## 🏆 Highlights & Achievements
+## 🏆 Highlights
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=F7DC6F&center=true&vCenter=true&width=800&lines=🎓+IEEE+Conference:+Research+Paper+shortlisted;🚀+EY+Techathon:+Qualified+Round+2;💡+HackIndia+2025:+Spark+8+Finalist+(Top+85+of+800+teams);🎙️+Clubs:+Student+Co-ordinator,+Event+Management,+Social+Media" alt="Highlights Typing" />
-</p>
+- 🎓 **IEEE Conference:** Research Paper shortlisted.
+- 🚀 **EY Techathon:** Qualified Round 2.
+- 💡 **HackIndia 2025:** Spark 8 Finalist (Top 85/800+ teams).
+- 🎙️ **Campus Roles:** Student Co-ordinator, Event Manager, Social Media.
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyakiran-create&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyakiran-create&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyakiran-create&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyakiran-create&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Divyakiran-create&theme=tokyo-night" alt="Contribution Graph" />
-</p>
-
----
-
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/divyakiran-sahoo-1595402b7">
@@ -88,5 +92,5 @@
 </p>
 
 <p align="center">
-  ✨ *Thanks for visiting — Let’s connect, learn & trend together!* ✨
+  ✨ *Thanks for stopping by — let’s read, travel, solve, and build the next trend together!* ✨
 </p>
