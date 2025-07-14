@@ -78,8 +78,13 @@
   <a href="mailto:divyakiranprofessional@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  ✨ *Thanks for reading — Let’s solve, build & set trends together!* ✨
+  <a href="https://wa.me/+91 6239647583">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nomadic.dev_2601">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID_HERE">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
