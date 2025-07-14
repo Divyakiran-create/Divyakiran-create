@@ -68,10 +68,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Divyakiran-create/Divyakiran-create/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Divyakiran-create&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
