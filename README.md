@@ -1,7 +1,7 @@
-<!-- FINAL FINAL README.md -->
+<!-- 🚀 Divyakiran-create | FINAL ULTRA README.md -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I'm+Divyakiran+Sahoo;Java+%7C+Python+%7C+Cloud+%7C+UI%2FUX+Enthusiast;Currently+learning+Java%2C+Python%2C+Cloud+%26+UI%2FUX;Open+to+Collaborate+on+Open+Source;Be+The+TrendSetter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B%2C+I'm+Divyakiran+Sahoo;Java+%7C+Python+%7C+Cloud+%7C+UI%2FUX+Enthusiast;Currently+learning+Java%2C+Python%2C+Cloud%2C+UI%2FUX;Open+to+Collaborate+on+Open+Source;Be+The+TrendSetter+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/Student-VIT%20Bhopal%202023–2027-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pronouns-He%2FHim%2FHis-0aa6d3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Motto-Be%20The%20TrendSetter-ff69b4?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20Profile!&fontSize=30&fontAlign=50&fontColor=ffffff" />
 </p>
 
 ---
@@ -64,6 +68,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Divyakiran-create/Divyakiran-create/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">
@@ -76,5 +88,5 @@
 </p>
 
 <p align="center">
-  ✨ *Thanks for visiting — Let’s connect, build & trend together!* ✨
+  ✨ *Thanks for visiting — Let’s connect, learn & trend together!* ✨
 </p>
