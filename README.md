@@ -1,30 +1,28 @@
-<!-- Polished Animated README.md for Divyakiran-create -->
+<!-- Final Smooth README.md for Divyakiran-create -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Divyakiran+Sahoo;Java+%7C+Python+%7C+Cloud+%7C+UI%2FUX;Be+The+TrendSetter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B%2C+I'm+Divyakiran+Sahoo;Java+%7C+Python+%7C+Cloud+%7C+UI%2FUX;Passionate+Learner+%7C+Be+The+TrendSetter+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Student-VIT%20Bhopal%20(2023–2027)-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pronouns-He%2FHim%2FHis-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Student-VIT%20Bhopal%202023–2027-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pronouns-He%2FHim%2FHis-0aa6d3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Motto-Be%20The%20TrendSetter-ff69b4?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=2000&color=0FFDF2&center=true&vCenter=true&width=435&lines=🌱+Currently+learning+Java%2C+Python%2C+Cloud%2C+Design;💡+Open+to+collaborate+on+Open+Source;📫+Reach+me+below!" alt="Typing SVG Small" />
+  🌱 Currently learning **Java**, **Python**, **Cloud**, **UI/UX** | 🤝 Open to collaborate on Open Source  
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📌 Languages
+### 🚀 Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,sql" alt="Languages" />
 </p>
@@ -55,11 +53,8 @@
 
 ## 🏆 Highlights & Achievements
 
-<p>
-  🎓 **IEEE Conference:** Research Paper shortlisted<br>
-  🚀 **EY Techathon:** Qualified Round 2<br>
-  💡 **HackIndia 2025:** Spark 8 Finalist (85/800+ teams)<br>
-  🎙️ **Clubs:**  Student Co-ordinator, Event Management, Social Media
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=F7DC6F&center=true&vCenter=true&width=800&lines=🎓+IEEE+Conference:+Research+Paper+shortlisted;🚀+EY+Techathon:+Qualified+Round+2;💡+HackIndia+2025:+Spark+8+Finalist+(Top+85+of+800+teams);🎙️+Clubs:+Student+Co-ordinator,+Event+Management,+Social+Media" alt="Highlights Typing" />
 </p>
 
 ---
@@ -73,7 +68,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/divyakiran-sahoo-1595402b7">
@@ -85,5 +80,5 @@
 </p>
 
 <p align="center">
-  ✨ *Thanks for reading — let's build, learn & set trends together!* ✨
+  ✨ *Thanks for visiting — Let’s learn, build & trend together!* ✨
 </p>
