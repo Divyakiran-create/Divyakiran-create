@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- 🎉 HERO BANNER -->
-  <img src="YOUR_BANNER_LINK_HERE" alt="Hero Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Divyakiran-create/Divyakiran-create/refs/heads/main/YouTube%20Banner%20-%20Coding%2C%20AI%2C%20and%20Real-World%20Solutions.png" alt="Hero Banner" width="100%" />
 </p>
 
 <p align="center">
