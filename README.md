@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Divyakiran+Sahoo;B.Tech+in+Computer+Science+%26+Engineering+with+Minor+in+AI+%26+ML;VIT+Bhopal+University+(2023–2027);Currently+Learning:+Java%2C+Python%2C+Cloud+%26+UI%2FUX;Turning+Real+Life+Problems+Into+Code;Be+The+TrendSetter+%F0%9F%9A%80" alt="Typing SVG Hero" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=1200&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Divyakiran+Sahoo;B.Tech+in+Computer+Science+%26+Engineering+with+Minor+in+AI+%26+ML;VIT+Bhopal+University+(2023–2027);Currently+Learning:+Java%2C+Python%2C+Cloud+%26+UI%2FUX;Turning+Real+Life+Problems+Into+Code;Be+The+TrendSetter+%F0%9F%9A%80" alt="Typing SVG Hero" />
 </p>
 
 <p align="center">
