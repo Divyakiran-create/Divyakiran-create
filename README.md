@@ -25,19 +25,26 @@
 
 ### 🚀 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,sql" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### 🎨 Frontend & Styling
 <p>
-  <img src="https://skillicons.dev/icons?i=react,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react" />
+</p>
+
+### ⚙️ Frameworks, Libraries & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,docker" />
+  <img src="https://img.shields.io/badge/SVM-009688?style=for-the-badge&logo=apache-spark&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ### 🎨 Design & Creative Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=figma,illustrator" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
 </p>
 
 ---
