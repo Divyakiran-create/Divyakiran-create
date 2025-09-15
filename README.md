@@ -47,8 +47,9 @@
 ## 🏆 Highlights & Achievements
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=2000&color=F7DC6F&center=true&vCenter=true&width=1000&lines=🎓+IEEE+Conference:+Research+Paper+Shortlisted;🚀+EY+Techathon:+Qualified+Round+2;💡+HackIndia+2025:+Spark+8+Finalist+(Top+85/800+Teams);🎙️+Student+Co-ordinator+%7C+Event+Manager+%7C+Social+Media" alt="Highlights Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=2000&color=F7DC6F&center=true&vCenter=true&width=1000&lines=🎓+IEEE+Conference:+Research+Paper+Shortlisted;🚀+EY+Techathon:+Qualified+Round+2;💡+HackIndia+2025:+Spark+8+Finalist+(Top+85/800+Teams);👨‍💻+Technical+Lead:+Feedbox+College+Clubs+@+VIT+Bhopal;🎙️+Student+Co-ordinator+%7C+Event+Manager+%7C+Social+Media" alt="Highlights Typing" />
 </p>
+
 
 ---
 
