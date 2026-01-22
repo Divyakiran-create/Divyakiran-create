@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Divyakiran-create/Divyakiran-create/refs/heads/main/YouTube%20Banner%20-%20Coding%2C%20AI%2C%20and%20Real-World%20Solutions.png" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Divyakiran Sahoo 👋</h1>
 <p align="center">
 B.Tech in Computer Science & Engineering (Minor in AI & ML) <br>
