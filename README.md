@@ -18,19 +18,18 @@ Turning real-world problems into scalable AI-driven solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 **Programming Languages**  
-Python, C++, Java, JavaScript, Ruby, R, SQL  
+• Python • C++ • Java • JavaScript • Ruby • R • SQL  
 **Databases**  
-PostgreSQL, Firebase  
+• PostgreSQL • Firebase  
 **Backend & Systems**  
-Flask, Node.js, REST APIs  
+• Flask • Node.js • REST APIs  
 **Version Control & DevOps**  
-Git, GitHub, Docker  
+• Git • GitHub • Docker  
 **Cloud Platforms**  
-AWS  
-
+• AWS  
 
 ---
 
