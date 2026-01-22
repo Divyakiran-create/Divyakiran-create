@@ -45,13 +45,6 @@ Turning real-world problems into scalable AI-driven solutions.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyakiran-create&show_icons=true&theme=default" />
-</p>
-
----
-
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/divyakiran-sahoo-1595402b7">LinkedIn</a> •
@@ -60,5 +53,3 @@ Turning real-world problems into scalable AI-driven solutions.
 </p>
 
 ---
-
-⭐ If you find my work useful, consider starring my repositories.
