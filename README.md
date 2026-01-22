@@ -22,26 +22,12 @@ Turning real-world problems into scalable AI-driven solutions.
 
 **Programming Languages**  
 Python, C++, Java, JavaScript, Ruby, R, SQL  
-
-**Machine Learning & AI**  
-NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch,  
-Convolutional Neural Networks (CNNs), Model Evaluation,  
-Feature Engineering, Data Preprocessing  
-
-**Research & Data Science Tools**  
-Jupyter Notebook, Google Colab,  
-Matplotlib, Seaborn,  
-Statistical Analysis, Experiment Design  
-
 **Databases**  
 PostgreSQL, Firebase  
-
 **Backend & Systems**  
 Flask, Node.js, REST APIs  
-
 **Version Control & DevOps**  
 Git, GitHub, Docker  
-
 **Cloud Platforms**  
 AWS  
 
